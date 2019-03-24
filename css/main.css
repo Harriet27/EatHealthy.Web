@@ -45,7 +45,7 @@ header{
 	width: 100%;
 	height: 100px;
 	/*background: #f4c995;*/
-	background-color: rgba(255, 115, 55, 0.7);
+	background-color: rgba(158, 113, 83, 0.6);
 	position: fixed;
 	z-index: 9999;
 }
@@ -102,7 +102,7 @@ header nav ul li a:hover{
 .caption .cap_title{
 	font-family: 'LatoBold', arial;
 	font-weight: Bold;
-	font-size: 40px;
+	font-size: 80px;
 	color: #ffffff;
 	text-transform: uppercase;
 	letter-spacing: 1.5px;
@@ -110,7 +110,7 @@ header nav ul li a:hover{
 
 .caption .cap_desc{
 	font-family: 'HoneyLight';
-	font-size: 50px;
+	font-size: 70px;
 	color: #ffffff;
 	margin-top: 10px;
 }
@@ -238,10 +238,10 @@ header nav ul li a:hover{
 	letter-spacing: 1px;
 	text-decoration: none;
 
-	border-radius: 2px;
-	-moz-border-radius: 2px;
-	-webkit-border-radius: 2px;
-	-o-border-radius: 2px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-o-border-radius: 10px;
 
 	background-color: #eba151;
 
@@ -349,7 +349,7 @@ header nav ul li a:hover{
 	width: 600px;
 	height: 62px;
 	background: #ffffff;
-	border-radius: 10px;
+	border-radius: 50px;
 	border: 2px #e19646 solid;
 }
 
@@ -412,9 +412,9 @@ header nav ul li a:hover{
 	margin-top: 11px;
 	outline: none;
  
-	border-radius: 10px;
-	-moz-border-radius: 20px;
-	-webkit-border-radius: 20px;
+	border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
 }
 
 .newsletter .submit_nl:hover{
